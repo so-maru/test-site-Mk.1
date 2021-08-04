@@ -5,7 +5,7 @@
 </head>
 <body>
 <b><font size=7 color="red"><strong>(ﾟ∀ﾟ)ｱﾋｬ</strong></b></font><br>
-<hr color="blue" width=35% align="left" size="5" noshade="noshade"><br>
+<hr color="blue" width=35% align="left" size="5"><br>
 ということで、<br>
 <font size=7>どうも!</font><br>
 <dl>
@@ -42,7 +42,7 @@ scratchでso-maruとして活動している物です。<br>
 もちろんふざけてます！<p>
 <li><a name="mattya">抹茶</a><p>
 <font size=7 color="green">抹茶は神</font><br>
-<hr color="green" width=40% align="left" size="5" noshade="noshade"><p>
+<hr color="green" width=40% align="left" size="5"><p>
 <strong>抹茶はso-maruの最も好きな飲み物の一つです。</strong><br>
 <kbd>おいしいよね</kbd><p>
 <li><a href="./index.html">ホーム</a><br><p>
