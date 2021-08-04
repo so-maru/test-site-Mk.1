@@ -15,19 +15,7 @@ scratchでso-maruとして活動している物です。<br>
 <marquee bgcolor="#ffabbb" width="200">
 (ﾟ∀ﾟ)ｱﾋｬso-maruフォロー(ﾟ∀ﾟ)ｱﾋｬ
 </marquee>
-<form>
 <u>(ﾟ∀ﾟ)ｱﾋｬor＼(^o^)／ｵﾜﾀ</u><p>
-<select name="favorite" multiple="multipule">
-<option>(ﾟ∀ﾟ)ｱﾋｬ(ﾟ∀ﾟ)ｱﾋｬ
-<option>(ﾟ∀ﾟ)ｱﾋｬ(ﾟ∀ﾟ)ｱﾋｬ
-<option>(ﾟ∀ﾟ)ｱﾋｬ(ﾟ∀ﾟ)ｱﾋｬ
-<option>(ﾟ∀ﾟ)ｱﾋｬ(ﾟ∀ﾟ)ｱﾋｬ
-<option>(ﾟ∀ﾟ)ｱﾋｬ(ﾟ∀ﾟ)ｱﾋｬ
-<option>(ﾟ∀ﾟ)ｱﾋｬ(ﾟ∀ﾟ)ｱﾋｬ
-<option>(ﾟ∀ﾟ)ｱﾋｬ(ﾟ∀ﾟ)ｱﾋｬ
-<option>＼(^o^)／ｵﾜﾀ
-</select>
-</form>
 <li><a href="https://scratch.mit.edu/users/so-maru/">so-maruへ</a><p>
 <li><a href="./file1.html">旧サイトへ</a><br><p>
 <li><a href="./ahya.html">(ﾟ∀ﾟ)ｱﾋｬ</a><br><p>
