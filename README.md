@@ -1,8 +1,7 @@
 <html>
 <head>
-<title>仮</title>
 </head>
 <body>
-仮
+  <a href="index=2=test.html"></a>
 </body>
 <html>
