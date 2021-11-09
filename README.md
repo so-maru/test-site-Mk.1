@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-  <a href="index=2=test.html"></a>
+  <a href=./github.html></a>
 </body>
 <html>
